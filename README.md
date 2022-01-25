@@ -1,2 +1,2 @@
 # table-test
-Test repo for table component
+Repo for test-table component
